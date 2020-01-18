@@ -1,6 +1,7 @@
 [submodule "SDL"]
 	path = SDL
 	url = https://github.com/SDL-mirror/SDL
+	branch = release-2.0.10
 [submodule "SDL_image"]
 	path = SDL_image
 	url = https://github.com/SDL-mirror/SDL_image
