@@ -14,3 +14,7 @@
 	path = SDL_ttf
 	url = https://github.com/SDL-mirror/SDL_ttf
 	branch = release-2.0.15
+[submodule "spdlog"]
+	path = spdlog
+	url = https://github.com/gabime/spdlog
+	branch = v1.5.0
