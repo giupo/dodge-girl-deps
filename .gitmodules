@@ -9,6 +9,8 @@
 [submodule "SDL_mixer"]
 	path = SDL_mixer
 	url = https://github.com/SDL-mirror/SDL_mixer
+	branch = release-2.0.4
 [submodule "SDL_ttf"]
 	path = SDL_ttf
 	url = https://github.com/SDL-mirror/SDL_ttf
+	branch = release-2.0.15
