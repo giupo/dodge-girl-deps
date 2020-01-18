@@ -5,6 +5,7 @@
 [submodule "SDL_image"]
 	path = SDL_image
 	url = https://github.com/SDL-mirror/SDL_image
+	branch = release-2.0.5
 [submodule "SDL_mixer"]
 	path = SDL_mixer
 	url = https://github.com/SDL-mirror/SDL_mixer
